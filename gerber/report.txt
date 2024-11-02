@@ -1,0 +1,12 @@
+Info: Output directory '/Users/e.chertikhin/Sync/src/psu/s24/gerber' created.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-F_Cu.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-B_Cu.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-F_Paste.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-B_Paste.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-F_Silkscreen.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-B_Silkscreen.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-F_Mask.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-B_Mask.gbr'.
+Plotted to '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/e.chertikhin/Sync/src/psu/s24/gerber/kicad-job.gbrjob'.
+Info: Done.
